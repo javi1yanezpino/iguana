@@ -1,0 +1,124 @@
+.prin{
+  background: #000000;
+  text-align: center;
+}
+
+body{
+  background: #000000;
+  font-family: Raleway;
+  margin:0;
+  color: #ffffff
+
+}
+
+body, *{
+  margin: 0;
+  padding: 0;
+}
+
+.inicio{
+  font-weight: 500;
+  padding: 1%;
+}
+
+.desc-section{
+  text-align: left;
+  vertical-align: middle;
+  width: 90%;
+  margin: 0 auto;
+
+  padding: 5%;
+}
+
+.texto1{
+
+  width: 50%;
+  display: inline-block;
+  text-align: left;
+  margin-left: 3%;
+  vertical-align: middle;
+
+}
+
+.imagen2{
+  width:34%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 5%;
+
+}
+.carac{
+  text-align: center;
+  font-weight: 500;
+  padding: 2%;
+}
+
+.caracteristicas{
+  background: #1e1a13;
+  width: 100%;
+  padding: 1% 0;
+
+
+}
+
+.sub-imagen{
+  display: inline-block;
+  width:90%;
+  padding: 5%;
+
+}
+
+.iguana {
+  width: 20%;
+  height: 20%;
+
+}
+
+#i1{
+  width: 15em;
+  height: 12em;
+  padding: 0.5%;
+}
+
+#i2{
+  width: 15em;
+  height: 12em;
+  padding: 0.5%;
+}
+
+#i3{
+  width: 15em;
+  height: 12em;
+  padding: 0.5%;
+}
+
+.caract2{
+
+  display: inline-block;
+  vertical-align: middle;
+
+}
+
+.icon{
+  display: inline-block;
+  width: 20%;
+  margin-left: 10%;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  font-weight: 300;
+  padding: 0.5%;
+
+}
+
+
+.visitas{
+  background: #1e1a13;
+  font-weight: 300;
+  padding: 1.5%;
+  text-align: center;
+}
+
+.hola{
+  
+}
